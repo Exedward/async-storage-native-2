@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "async-storage-native-2",
+    "slug": "async-storage-native-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
